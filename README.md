@@ -55,3 +55,7 @@ Slain!_中文补丁_覆盖版.zip
 └─ orig_backup/
     └─ resources.assets      英文原版文件（供还原）
 ```
+
+### 六、其他下载地址
+度盘：/s/1GCB_7lSBiBn8n00iDTKHQw?pwd=ksps 提取码: ksps 
+蓝奏：/iQE2U4gtg9je 密码:7iu6
